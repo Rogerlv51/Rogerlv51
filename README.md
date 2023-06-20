@@ -1,16 +1,13 @@
-### Hi there 👋
+### Currently a master student. Keen on AI, CV and 3D Reconstruction.👋
 
-<!--
-**Rogerlv51/Rogerlv51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying on CUIT, major in Machine Vision.
+- 🌱 I’m currently intrested in Deep Learning, especially about CV.
+- 🤔 I’m applying for a job on CV or 3D Reconstruction.
+- 💬 Credo: Stay Hungry, Stay Foolish.
+- 📫 How to reach me: 949408370@qq.com or jroger173@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogerlv51&theme=default&show_icons=true)
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rogerlv51&show_icons=true&theme=tokyonight)
+
