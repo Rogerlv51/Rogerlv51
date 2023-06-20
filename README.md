@@ -11,9 +11,9 @@
 - 💬 Credo: Stay Hungry, Stay Foolish.
 - 📫 How to reach me: 949408370@qq.com or jroger173@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rogerlv51&show_icons=true" alt="logo" height="170" align="right" style="margin: 3px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rogerlv51&show_icons=true" alt="logo" height="168" align="right" style="margin: 2px; margin-bottom: 15px;" />
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rogerlv51&show_icons=true&theme=tokyonight" alt="logo" height="170" align="left" style="margin: 3px; margin-bottom: 20px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rogerlv51&show_icons=true&theme=tokyonight" alt="logo" height="168" align="left" style="margin: 2px; margin-bottom: 15px;" />
 
 
