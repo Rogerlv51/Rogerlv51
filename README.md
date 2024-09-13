@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently studying on CUIT, major in Machine Vision.
+- 🔭 I've already got a master degree on CUIT, major in Machine Vision.
 - 🌱 I’m currently intrested in Deep Learning, especially about CV.
-- 🤔 I’m applying for a job on CV or 3D Reconstruction.
+- 🤔 I’m now working on 3D Vision especially point cloud processing.
 - 💬 Credo: Stay Hungry, Stay Foolish.
 - 📫 How to reach me: 949408370@qq.com or jroger173@gmail.com
 
