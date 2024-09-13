@@ -1,4 +1,4 @@
-### Hi, I'm Roger. Currently a master student. Keen on AI, CV and 3D Reconstruction.👋
+### Hi, I'm Roger. Currently work in a Robot startup. Keen on AI, CV and 3D Reconstruction.👋
 <p align="center">
   <img align='center' src='https://images.unsplash.com/photo-1682687219570-4c596363fd96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1675&q=80'><br>
 </p>
